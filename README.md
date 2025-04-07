@@ -11,9 +11,9 @@
   <img align="center" alt="fabbar-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="fabbar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fabbar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="fabbar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="fabbar-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="fabbar-Springboot" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">  
+  <img align="center" alt="fabbar-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <!--img align="center" alt="fabbar-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"-->
+  <!--img align="center" alt="fabbar-Springboot" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"-->  
   <img align="center" alt="fabbar-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  
   <img align="center" alt="fabbar-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="fabbar-K8s" height="30" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">  
